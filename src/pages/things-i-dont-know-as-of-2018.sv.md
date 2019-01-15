@@ -2,7 +2,7 @@
 title: Saker som jag fortfarande inte kan 2018.
 date: '2018-12-28'
 langs: ['en', 'zh-hant', 'ko', 'sv']
-spoiler: We can admit our knowledge gaps without devaluing our expertise.
+spoiler: Vi kan alla erkänna att vi har hål i våran kunskap utan att dra ner värdet på vår expertis.
 ---
 
 Folk brukar ofta anta att jag vet mer än jag faktiskt gör. Det är inte ett dåligt problem att ha och jag klagar inte. (Människor från minoritetsgrupper upplever ofta helt motsatta fördomar trots deras hårt förvärvade kreditiv och det *suger*.)
